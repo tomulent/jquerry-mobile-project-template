@@ -1,7 +1,6 @@
-Download a zip copy of this by clicking on the button over on the right.
+Download a zip copy of this by clicking on the button over on the right. After that, keep a copy of he zip locally and unpack it whenever you want to start a new jQuery Mobile project.
 
-# Contents
-
+## Contents
 
 **contents-images**: Where you should put any images you want in your app
 
