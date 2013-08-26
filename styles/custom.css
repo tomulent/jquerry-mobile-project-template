@@ -1,0 +1,29 @@
+/*
+Use this file to add custom classes
+Below are some classes that will set
+the width of images you add them to 
+and center them in their div
+*/
+
+.center-img-80 {
+	width:80%;
+	margin: 0 10%;
+}
+
+.center-img-70 {
+	width:70%;
+	margin: 0 15%;
+}
+
+.center-img-60 {
+	width:80%;
+	margin: 0 20%;
+}
+
+.center-img-50 {
+	width:80%;
+	margin: 0 25%;
+}
+
+
+
