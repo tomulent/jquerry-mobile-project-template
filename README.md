@@ -15,3 +15,5 @@ Download a zip copy of this by clicking on the button over on the right. After t
 **styles**: Contains the jQuery Mobile stylesheet and a *custom.css* where you can put your own style classes.
 
 **widgets.html**: Contains the code for outlines for common jQuery Mobile widgets like listviews, accordions, collapsibles, and grids. This is NOT meant to substitute for learning. You must read the jQuery Mobile documentation.
+
+**apple-touch-icon**: Generic GIIP logo icons that will show up on the homescreen of a iOS or Android device when they add a homescreen shortcut. *Important*: These icons must remain in the root directory.
