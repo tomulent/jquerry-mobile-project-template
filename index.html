@@ -20,7 +20,43 @@
 </head>
 <body>
   
-  <!--Here be content-->
+  
+  <div data-role="page" id="page-one">
+    <div data-role="header" data-theme="b">
+      <h1>Page One</h1>
+    </div>
+      <div data-role="content">
+  			<p>Here is where you put content</p>
+  			<p><a href="#page-two">Link to second page</a></p>
+      </div>
+  </div> <!--/page-one -->
+  
+  <div data-role="page" id="page-two">
+    <div data-role="header" data-theme="b">
+      <h1>Page Two</h1>
+    </div>
+      <div data-role="content">
+  			<p>See? We're on another page! Let's look at a widget.</p>
+  			<p>Widgets are HTML elements that have been made awesome with jQuery magic. Below is a simple bulleted list, or as we call them, "Unordered Lists"</p>
+  			  <ul>
+  			    <li>Item 1</li>
+  			    <li>Item 2</li>
+  			    <li>Item 3</li>
+  			  </ul>
+  			<p>To make it a widget, we just add a data attribute to the opening tag of the element.</p>
+  				<ul data-role="listview">
+  				  <li>Item 1</li>
+  			    <li>Item 2</li>
+  			    <li>Item 3</li>
+  			  </ul>
+  			  
+  			<p>That's basically all there is to doing this.</p>
+  			
+  			<p><a href="#page-one">Back to the first page</a></p>
+      </div>
+  </div> <!--/page-two -->
+
+
 
 </body>
 </html>
