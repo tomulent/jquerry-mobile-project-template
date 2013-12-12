@@ -1,4 +1,4 @@
-Download a zip copy of this by clicking on the button over on the right. After that, keep a copy of he zip locally and unpack it whenever you want to start a new jQuery Mobile project.
+Download a zip copy of this by clicking on the "Download Zip" button over on the right. After that, keep a copy of he zip locally and unpack it whenever you want to start a new jQuery Mobile project.
 
 ## Contents
 
